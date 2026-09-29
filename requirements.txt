@@ -1,0 +1,7 @@
+pandas
+pyarrow
+fastparquet
+numpy
+scipy
+scikit-learn
+lightgbm

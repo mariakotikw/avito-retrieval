@@ -1,0 +1,15 @@
+data/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cache/
+artifacts/
+*.joblib
+*.pkl
+*.npy
+*.npz
+answer_*.csv
+!answer.csv
